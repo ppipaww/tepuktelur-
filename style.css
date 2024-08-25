@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+#gameArea {
+    position: relative;
+    width: 400px;
+    height: 400px;
+    margin: 20px auto;
+    background-color: #fff;
+    border: 2px solid #000;
+}
+
+#egg {
+    position: absolute;
+    width: 65px;
+    height: 100px;
+    cursor: pointer;
+}
